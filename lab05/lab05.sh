@@ -1,4 +1,7 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: 2024 Samuel Wu
+#
+# SPDX-License-Identifier: 0BSD
 
 curl -O https://raw.githubusercontent.com/s7117/csce215labs/main/mnist_condensed.csv
 

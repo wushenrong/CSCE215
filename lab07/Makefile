@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Samuel Wu
+#
+# SPDX-License-Identifier: 0BSD
+
 .SILENT:
 bake: shop checkout mix
 	echo "Putting biscuits in the oven..."
@@ -19,6 +23,11 @@ shop:
 	./water.sh
 	./butter.sh 1
 
+.PHONEY: clean
 clean:
 	echo "Cleaning up!"
 	rm -rf pantry
+	rm -rf bowl
+	rm -rf burnt_biscuits
+	rm -rf still_raw_biscuits
+	rm -rf perfect_biscuits
