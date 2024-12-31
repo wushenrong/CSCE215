@@ -31,7 +31,7 @@ list-marker-space:
   ul_multi: 3
   ol_multi: 2
 
-no-inline-html: false
+no-inline-html: true
 
 hr-style:
   style: ---
