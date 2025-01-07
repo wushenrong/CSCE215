@@ -5,5 +5,5 @@ Makefile.
 
 ## License
 
-Scripts are licensed under the BSD Zero Clause License using
-[SPDX](https://spdx.dev) expressions.
+Scripts are licensed under the BSD Zero Clause License using [SPDX](https://spdx.dev)
+expressions.
