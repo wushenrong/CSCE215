@@ -1,8 +1,8 @@
 {
-    "recommendations": [
-        "foxundermoon.shell-format",
-        "jeff-hykin.better-shellscript-syntax",
-        "ms-vscode.makefile-tools",
-        "timonwong.shellcheck"
-    ]
+  "recommendations": [
+    "foxundermoon.shell-format",
+    "jeff-hykin.better-shellscript-syntax",
+    "ms-vscode.makefile-tools",
+    "timonwong.shellcheck"
+  ]
 }
