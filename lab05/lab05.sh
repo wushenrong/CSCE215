@@ -13,7 +13,7 @@ wc -l <lab05.out
 
 head -n 23 mnist_condensed.csv | tail -n 1 >lab05.out
 
-cat lab05.out | wc -l
+wc -l <lab05.out
 
 tail -n 10 mnist_condensed.csv | head -n 3 >>lab05.out
 head -n 23 mnist_condensed.csv | tail -n 1 >>lab05.out
